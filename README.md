@@ -69,9 +69,14 @@ Fetches products from **Fake Store API**, lets users browse items, view details,
 - Emulator or physical device
 
 ```bash
+
 flutter --version
 
-git clone https://github.com/YOUR-USERNAME/cartify.git
+git clone https://github.com/khanyousafzaideveloper/cartify.git
 cd cartify
 
 flutter pub get
+
+flutter run
+
+
