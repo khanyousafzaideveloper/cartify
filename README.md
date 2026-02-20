@@ -1,17 +1,74 @@
-# cartify
+# Cartify 🛒
 
-A new Flutter project.
+A simple, modern e-commerce mobile application built with **Flutter**.
 
-## Getting Started
+Fetches products from **Fake Store API**, lets users browse items, view details, add products to cart, see total price, toggle between light & dark themes, and more.
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="screenshots/home_light.png" width="30%" alt="Home Screen Light">
+  <img src="screenshots/home_dark.png" width="30%" alt="Home Screen Dark">
+  <img src="screenshots/product_detail.png" width="30%" alt="Product Detail">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Fetch products from Fake Store API
+- Clean product list with grid layout
+- Detailed product view
+- Add / remove items from shopping cart
+- Cart screen with real-time total price calculation
+- Profile screen
+- Light / Dark theme toggle (persisted locally)
+- Logout button
+- State management with **BLoC (Cubit)**
+- Proper loading, success & error states
+- Clean Architecture inspired folder structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# cartify
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><b>Home (Light)</b></td>
+    <td><b>Home (Dark)</b></td>
+    <td><b>Product Detail</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home_light.png" width="220"></td>
+    <td><img src="screenshots/home_dark.png" width="220"></td>
+    <td><img src="screenshots/product_detail.png" width="220"></td>
+  </tr>
+  <tr>
+    <td><b>Cart</b></td>
+    <td><b>Profile</b></td>
+    <td><b>Empty Cart</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/cart.png" width="220"></td>
+    <td><img src="screenshots/profile.png" width="220"></td>
+    <td><img src="screenshots/cart_empty.png" width="220"></td>
+  </tr>
+</table>
+
+> Add your real screenshots to a `screenshots/` folder and update the file names above
+
+## 🛠️ Tech Stack
+
+- **Flutter** (3.x)
+- **Dart**
+- **flutter_bloc** (Cubit)
+- **http** / **dio** (for API calls)
+- **shared_preferences** (theme persistence)
+- **Fake Store API** — https://fakestoreapi.com
+- Clean Architecture / Feature-first structure
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK (3.0+ recommended)
+- Dart SDK
+- Android Studio / VS Code
+- Emulator or physical device
+
+```bash
+flutter --version
