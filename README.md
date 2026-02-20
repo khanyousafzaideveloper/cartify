@@ -4,13 +4,9 @@ A simple, modern e-commerce mobile application built with **Flutter**.
 
 Fetches products from **Fake Store API**, lets users browse items, view details, add products to cart, see total price, toggle between light & dark themes, and more.
 
-<p align="center">
-  <img src="screenshots/home_light.png" width="30%" alt="Home Screen Light">
-  <img src="screenshots/home_dark.png" width="30%" alt="Home Screen Dark">
-  <img src="screenshots/product_detail.png" width="30%" alt="Product Detail">
-</p>
 
-## ✨ Features
+
+## Features
 
 - Fetch products from Fake Store API
 - Clean product list with grid layout
@@ -32,8 +28,8 @@ Fetches products from **Fake Store API**, lets users browse items, view details,
     <td><b>Product Detail</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/home_light.png" width="220"></td>
-    <td><img src="screenshots/home_dark.png" width="220"></td>
+    <td><img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/cartify/home_dark.jpeg?raw=true" width="220"></td>
+    <td><img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/cartify/home_light.jpeg?raw=true" width="220"></td>
     <td><img src="screenshots/product_detail.png" width="220"></td>
   </tr>
   <tr>
@@ -51,7 +47,7 @@ Fetches products from **Fake Store API**, lets users browse items, view details,
 
 ## Tech Stack
 
-- **Flutter** (3.x)
+- **Flutter**
 - **Dart**
 - **flutter_bloc** (Cubit)
 - **http** / **dio** (for API calls)
