@@ -1,4 +1,4 @@
-# Cartify 🛒
+# Cartify
 
 A simple, modern e-commerce mobile application built with **Flutter**.
 
@@ -15,7 +15,6 @@ Fetches products from **Fake Store API**, lets users browse items, view details,
 - Fetch products from Fake Store API
 - Clean product list with grid layout
 - Detailed product view
-- Add / remove items from shopping cart
 - Cart screen with real-time total price calculation
 - Profile screen
 - Light / Dark theme toggle (persisted locally)
@@ -24,7 +23,7 @@ Fetches products from **Fake Store API**, lets users browse items, view details,
 - Proper loading, success & error states
 - Clean Architecture inspired folder structure
 
-## 📸 Screenshots
+## Screenshots
 
 <table>
   <tr>
@@ -49,9 +48,8 @@ Fetches products from **Fake Store API**, lets users browse items, view details,
   </tr>
 </table>
 
-> Add your real screenshots to a `screenshots/` folder and update the file names above
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Flutter** (3.x)
 - **Dart**
@@ -67,8 +65,13 @@ Fetches products from **Fake Store API**, lets users browse items, view details,
 
 - Flutter SDK (3.0+ recommended)
 - Dart SDK
-- Android Studio / VS Code
+- Android Studio
 - Emulator or physical device
 
 ```bash
 flutter --version
+
+git clone https://github.com/YOUR-USERNAME/cartify.git
+cd cartify
+
+flutter pub get
