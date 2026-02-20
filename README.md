@@ -30,17 +30,17 @@ Fetches products from **Fake Store API**, lets users browse items, view details,
   <tr>
     <td><img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/cartify/home_dark.jpeg?raw=true" width="220"></td>
     <td><img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/cartify/home_light.jpeg?raw=true" width="220"></td>
-    <td><img src="screenshots/product_detail.png" width="220"></td>
+    <td><img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/cartify/detail.jpeg?raw=true" width="220"></td>
   </tr>
   <tr>
     <td><b>Cart</b></td>
     <td><b>Profile</b></td>
-    <td><b>Empty Cart</b></td>
+    <td><b>No Connection</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/cart.png" width="220"></td>
-    <td><img src="screenshots/profile.png" width="220"></td>
-    <td><img src="screenshots/cart_empty.png" width="220"></td>
+    <td><img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/cartify/cart_light.jpeg?raw=true" width="220"></td>
+    <td><img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/cartify/profile_dark.jpeg?raw=true" width="220"></td>
+    <td><img src="https://github.com/khanyousafzaideveloper/ProjectScreenShots/blob/main/cartify/no%20internet.jpeg?raw=true" width="220"></td>
   </tr>
 </table>
 
