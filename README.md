@@ -50,7 +50,7 @@ Fetches products from **Fake Store API**, lets users browse items, view details,
 - **Flutter**
 - **Dart**
 - **flutter_bloc** (Cubit)
-- **http** / **dio** (for API calls)
+- **dio** (for API calls)
 - **shared_preferences** (theme persistence)
 - **Fake Store API** — https://fakestoreapi.com
 - Clean Architecture / Feature-first structure
@@ -59,7 +59,7 @@ Fetches products from **Fake Store API**, lets users browse items, view details,
 
 ### Prerequisites
 
-- Flutter SDK (3.0+ recommended)
+- Flutter SDK
 - Dart SDK
 - Android Studio
 - Emulator or physical device
