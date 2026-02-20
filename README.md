@@ -23,8 +23,8 @@ Fetches products from **Fake Store API**, lets users browse items, view details,
 
 <table>
   <tr>
-    <td><b>Home (Light)</b></td>
     <td><b>Home (Dark)</b></td>
+    <td><b>Home (Light)</b></td>
     <td><b>Product Detail</b></td>
   </tr>
   <tr>
